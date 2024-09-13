@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirahmm&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirahmm" /> </p>
 
-<img align="right" alt="Hijab" width="300" src="https://cdn.dribbble.com/users/1843582/screenshots/15369044/media/c8877e6edb47ae6ed3a45b2ab54a6084.gif">
+<img align="right" alt="Logo" width="300" src="https://github.com/nadhirahmm/nadhirahmm/blob/main/Logo.png?raw=true">
 
 <h3 align="left">A Little about Me🦋</h3>
 
