@@ -1,4 +1,4 @@
-<img align="center" alt="Hijab" width="1300" height="350" src="https://github.com/nadhirahmm/nadhirahmm/blob/main/Banner%20Image.png?raw=true">
+<img align="center" alt="Hijab" width="1280" height="350" src="https://github.com/nadhirahmm/nadhirahmm/blob/main/My%20Banner.png?raw=true">
 
 <h1 align="center">Hola, Nadhirah's here!👋🏽</h1>
 
